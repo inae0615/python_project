@@ -1,3 +1,1 @@
-# python_project
-
-This is a simple project using python.
+## This is a simple project using python.
